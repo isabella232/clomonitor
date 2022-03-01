@@ -94,13 +94,13 @@ exports[`Footer creates snapshot 1`] = `
           <div
             class="opacity-75 license"
           >
-            CloMonitor is an 
+            CLOMonitor is an
             <b
               class="d-inline-block"
             >
               Open Source
             </b>
-             project licensed under the 
+             project licensed under the
             <a
               aria-label="Open Apache License 2.0 documentation"
               class="link d-inline-block mb-1"
